@@ -58,10 +58,9 @@ function end(answer) {
 }
 
 
-greet('Aid', '2020')  // change it as you need
+greet('Natasha', '2022') 
 remind_name();
 guess_age();
 count();
 test();
-// ...
 end();
